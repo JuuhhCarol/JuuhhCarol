@@ -1,4 +1,4 @@
-<h1 align="center">🌙 Oi, eu sou a Júlia!</h1>
+<h1 align="center">💗 Oi, eu sou a Júlia!</h1>
 
 <p align="center">
   Aprendiz em Soluções Digitais, focada em aprender para futuramente ser engenheira de Software✨
@@ -8,13 +8,13 @@
 
 ### 🌸 Sobre mim
 
-- 🌱 Aprendendo todos os dias — atualmente estudando **C#**, **JavaScript moderno** e **C++**
-- 💻 Gosto de unir lógica com estética: códigos que funcionam, mas também encantam
+- 🧿 Aprendendo todos os dias — atualmente estudando **C#**, **JavaScript moderno** e **C++**
+- 🎀 Gosto de unir lógica com estética: códigos que funcionam, mas também encantam
 - 🎯 Buscando minha evolução como dev e conquistando independência com projetos reais
 
 ---
 
-### 🧰 Tecnologias que uso
+### 💻 Tecnologias que uso
 
 <div style="display: flex; gap: 10px;">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,4 +42,4 @@
 
 ---
 
-> “Ser dev é criar mundos com o código e deixá-los com a nossa cara.” – Juju 🌙💻
+> “Ser dev é criar mundos com o código e deixá-los com a nossa cara.” – Juju 🎀💻
