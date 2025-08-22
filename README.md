@@ -3,7 +3,6 @@
 <p align="center">
   Aprendiz em Soluções Digitais, focada em aprender para futuramente ser engenheira de Software✨
 </p>
----
 
 ### 💌 Onde me encontrar
 
