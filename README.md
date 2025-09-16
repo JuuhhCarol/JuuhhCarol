@@ -1,7 +1,7 @@
 <h1 align="center">💗 Oi, eu sou a Júlia!</h1>
 
 <p align="center">
-  Aprendiz em Soluções Digitais, focada em aprender para futuramente ser engenheira de Software✨
+  Aprendiz em Soluções Digitais na Bosch, focada em aprender para futuramente ser engenheira de Software✨
 </p>
 
 ### 💌 Onde me encontrar
@@ -16,7 +16,3 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuuhhCarol&show_icons=true&theme=tokyonight"/>
 </div>
-
----
-
-> “Ser dev é criar mundos com o código e deixá-los com a nossa cara.” – Juju 🎀💻
